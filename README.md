@@ -2,11 +2,11 @@
 
 [pages]
   * DataSource
-      DB - sql(oracle, postgresql, mysql, ...) or not(influx, prometheus, mongodb, ...)
-      Grafana
-      OpenShift
-      Confluence, Jira
-      Rest with pareser(xml, json, text via regular)
+     * DB - sql(oracle, postgresql, mysql, ...) or not(influx, prometheus, mongodb, ...)
+     * Grafana
+     * OpenShift
+     * Confluence, Jira
+     * Rest with pareser(xml, json, text via regular)
   * Systems
       System or Subsystem with params
   * Template
