@@ -8,16 +8,18 @@
      * Confluence, Jira
      * Rest with pareser(xml, json, text via regular)
   * Systems
-      System or Subsystem with params
+      * System
+      * Subsystem
+      * Params
   * Template
-      Params - can use in template
-      Template of document
-      Set Format - Sections, Blocks(text, img, graphic, tables, ...)
+      * Params - can use in template
+      * Template of document
+      * Set Format - Sections, Blocks(text, img, graphic, tables, ...)
   * Report
-      Create report with one or few intervals of test
-      Compare with another report(choose tables or params information)
+      * Create report with one or few intervals of test
+      * Compare with another report(choose tables or params information)
       
   * Protocol
-      Create protocol with few reports
-      Describe the objectives/conclusions/limitations
-      Export json / pdf / doc / confluence page / ...
+      * Create protocol with few reports
+      * Describe the objectives/conclusions/limitations
+      * Export json / pdf / doc / confluence page / ...
